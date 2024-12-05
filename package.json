@@ -1,0 +1,17 @@
+{
+  "name": "fuk-migration",
+  "version": "1.0.0",
+  "description": "Migration der historischen Daten vom existierenden Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --watch --env-file=.env index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "msnodesqlv8": "^4.4.0",
+    "mssql": "^11.0.1"
+  }
+}

@@ -1,0 +1,75 @@
+[
+    {
+        "contains": "Kienhorst_Bestand.json",
+        "key": "r6i7l2c5q9z6240hgn4k",
+        "channel_id": "kienhorst_bestand"
+    },
+    {
+        "contains": "Kienhorst_FF.json",
+        "key": "u3en33qhhbmg7ul794w1"
+    },
+    {
+        "contains": "Beerenbusch_Bestand.json",
+        "key": "gaHMEdU6J52myY1V74vL"
+    },
+    {
+        "contains": "Beerenbusch_Buchen.json",
+        "key": "0fiwvd9vdy16elbg3pup"
+    },
+    {
+        "contains": "Beerenbusch_Buchen_Bestand.json",
+        "key": "91rwibxpja2bxy338osn"
+    },
+    {
+        "contains": "Beerenbusch_FF.json",
+        "key": "ghjylrsuq81b3yfqykc5"
+    },
+    {
+        "contains": "Fuenfeichen_Bestand.json",
+        "key": "tjcrui8uvrot9mcynb7p"
+    },
+    {
+        "contains": "Fuenfeichen_FF.json",
+        "key": "9ud94xc8dqq1ch7d685j"
+    },
+    {
+        "contains": "Grunewald_Bestand.json",
+        "key": "5zn4k93haz3k4nxl2wzp"
+    },
+    {
+        "contains": "Grunewald_FF.json",
+        "key": "dw4ei880k97sfad4q3rp"
+    },
+    {
+        "contains": "Kienhorst_Eichen.json",
+        "key": "dgandf2lob7pmifa71d0"
+    },
+    {
+        "contains": "Neusorgefeld_Bestand.json",
+        "key": "rcak2tpef6btnowqd1uc"
+    },
+    {
+        "contains": "Neusorgefeld_FF.json",
+        "key": "xuy490zyx5kgw3dkh3ph"
+    },
+    {
+        "contains": "Schwenow_FF.json",
+        "key": "ewfqxkr4hpsy2t9z6w1v"
+    },
+    {
+        "contains": "Weitzgrund_Bestand.json",
+        "key": "y4jqgyy32imrvxrxz85f"
+    },
+    {
+        "contains": "Weitzgrund_FF.json",
+        "key": "I6GzTtSr63CXTnuTa5WQ"
+    },
+    {
+        "contains": "Nattheide_FF.json",
+        "key": "hglyrmmhr7jhoep9vp5x"
+    },
+    {
+        "contains": "Eichhorst_FF.json",
+        "key": "cW5VsasN1erGkCqADhFG"
+    }
+]

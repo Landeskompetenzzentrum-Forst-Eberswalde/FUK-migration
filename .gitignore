@@ -135,3 +135,5 @@ tmp
 config
 
 per-device
+
+.DS_Store

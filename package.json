@@ -5,12 +5,15 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node --watch --env-file=.env index.js"
+    "start": "node --watch --env-file=.env index.js",
+    "perDevices": "node --watch --env-file=.env per-device.js",
+    "migrate": "node --watch --env-file=.env migrate.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "axios": "^1.7.9",
     "msnodesqlv8": "^4.4.0",
     "mssql": "^11.0.1"
   }
